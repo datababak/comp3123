@@ -1,0 +1,24 @@
+{
+    "name": "Week04_Express",
+    "version": "10.0.0",
+    "main": "index.js",
+    "scripts": {
+        "tests": "echo 'Error, n test specified' ",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "express",
+        "node vs nodemon",
+        "query vs params"
+    ],
+    "author": "Babak Mokri",
+    "license": "ISC",
+    "description": "Practice using Express framework with Node",
+    "dependencies": {
+        "express": "^5.2.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.14"
+    }
+}
