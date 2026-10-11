@@ -1,0 +1,23 @@
+{
+  "name": "lab05_express",
+  "version": "1.0.0",
+  "description": "Using the Express framework for the routes in our server",
+  "repository": {
+    "type": "git",
+    "url": "lab05"
+  },
+  "license": "ISC",
+  "author": "Babak Mokri",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js localhost 8081",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
