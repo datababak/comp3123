@@ -1,4 +1,13 @@
 
+/*
+ * Student Name: Babak Mokri
+ * Course: COMP3123 - Full Stack Development I
+ * Lab: Week 10 - React Data Entry Form
+ * Description: React form using useState to collect
+ * and display submitted user information.
+ */
+
+
 import { useState } from 'react'
 import './App.css'
 
